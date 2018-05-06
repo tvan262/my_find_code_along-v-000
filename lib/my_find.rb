@@ -8,7 +8,7 @@ def my_find(collection)
  end                                                 #return collection[i]
 end
 
-#    def my_find(collection) 
+#    def my_find(collection)
 #      i = 0
 #   while i < collection.length
 #    if yield(collection[i])
